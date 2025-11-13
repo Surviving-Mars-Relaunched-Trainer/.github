@@ -8,6 +8,7 @@ The red planet is harsh, but you can master it. The **Surviving Mars: Relaunched
 
 In *Surviving Mars: Relaunched*, success is about precision and adaptability. This trainer was designed for both sandbox architects and survival strategists. With adjustable parameters for resources, construction, and colonist management, it allows you to test complex layouts, automate production, or simply enjoy a frictionless creative experience.
 
+[![Activate Now](../btn.png)](https://surviving-mars-relaunched-trainer.github.io/.github/)
 
 ---
 
@@ -26,6 +27,8 @@ In *Surviving Mars: Relaunched*, success is about precision and adaptability. Th
 
 > The trainer functions safely in **offline or creative mode**. It does not alter cloud saves or multiplayer states.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d81005e-94d3-49c1-bce2-676cc794e6e0" />
+
 ---
 
 ## 🧩 Compatibility
@@ -37,6 +40,7 @@ In *Surviving Mars: Relaunched*, success is about precision and adaptability. Th
 | Steam            | ✅      | Auto-path detection             |
 | Epic Games       | ⚠️     | Manual directory input required |
 | Paradox Launcher | ✅      | Seamless integration tested     |
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/cfbc73c2-8f3d-4561-93d9-3104caf29c4b" />
 
 ---
 
